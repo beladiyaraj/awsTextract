@@ -1,6 +1,6 @@
 # Asynchronous PDF to CSV Extraction
 
-This project enables the extraction of data from 30-page PDF files and converts them into CSV format. It utilizes AWS Textract, AWS Lambda, and AWS S3 services to automate the extraction process.
+This project enables the extraction of data from PDF files and converts them into CSV format. It utilizes AWS Textract, AWS Lambda, and AWS S3 services to automate the extraction process.
 
 ## Project Overview
 

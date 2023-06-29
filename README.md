@@ -17,7 +17,7 @@ The goal of this project is to extract data from PDF files and save it in CSV fo
 
 - AWS Account with necessary permissions.
 - AWS CLI installed and configured.
-- Node.js installed for deploying AWS Lambda functions.
+- Python installed for deploying AWS Lambda functions.
 
 ## Resources
 
